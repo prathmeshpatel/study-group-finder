@@ -1,0 +1,271 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #fff;
+}
+
+header {
+  color: #fff;
+  background-color: #001A57;
+  padding: 33px 0 25px 15px;
+}
+
+header p {
+  width: 400px;
+  margin: 0 auto;
+}
+header .wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+header h1 {
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  display: inline-block;
+  margin: 0;
+  vertical-align: middle;
+  
+}
+section {
+  max-height: 500px;
+}
+
+.fa {
+  font-size: 22px;
+  transform: translateY(50deg);  
+}
+
+header i {
+  vertical-align: middle;
+  margin-left: 12px;
+}
+
+.container {
+  display: flex;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+.wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.add-item {
+  border-radius: 2px;
+  border-top: 3px solid #001A57;
+  margin-right: 50px;
+  background-color: rgb(237, 237, 237);
+  padding: 60px 18px;
+  box-shadow: 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.12), 0 1px 8px 0 rgba(0,0,0,.2);
+  margin-bottom: 34px;  
+  width: 25%;
+  margin-right: auto;
+}
+
+.display-item {
+  width: 65%;
+  margin-left: 50px;
+}
+
+.display-item button {
+  margin-top: 20px;
+  margin-left: auto;
+  display: block;
+}
+
+.add-item form {
+  width: 100%;
+  overflow: hidden;
+}
+
+input {
+  font-size: 22px;
+  color: #000;
+  padding: 18px 22px;
+  font-size: 16px;
+  margin-bottom: 17px;
+  border: 0;
+  display: block;
+  width: 100%;  
+  display: inline-block;
+}
+label {
+  display: block;
+  padding-left: 15px;
+  text-indent: -15px;
+}
+
+.checkBox {
+  width: 13px;
+  height: 13px;
+  padding: 4px;
+  margin:0;
+  vertical-align: bottom;
+  position: relative;
+  top: -1px;
+  *overflow: hidden;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  width: calc(50% - 50px);
+  list-style-type: none;
+  margin-right: 50px;
+  background-color: rgb(237, 237, 237);
+  color: #000;
+  margin-bottom: 30px;
+  box-shadow: 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.12), 0 1px 8px 0 rgba(0,0,0,.2);
+}
+
+h2 {
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+}
+
+li h3 {
+  background-color: #001A57;
+  margin: 0;
+  color: #fff;
+  font-weight: 300;
+  padding: 15px;
+}
+li h4{
+  padding-top: 12px;
+  padding-bottom: 10px;
+  margin:auto;
+  text-align: center;
+  vertical-align: middle;
+}
+
+li p {
+  padding: 15px;
+}
+
+form button {
+  width: 100%;
+  margin-top: 10px;
+}
+
+button {
+  border-radius: 2px;
+  min-width: 80px;
+  background-color: #A1B70D;
+  cursor: pointer;
+  border: 0;
+  min-width: 120px;
+  color: #fff;
+  font-size: 14px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+  padding: 9px 5px;
+}
+/*the container must be positioned relative:*/
+select {
+  position: relative;
+  font-family: Roboto;
+  background-color: #cdea0b;
+  font-size: 12pt;
+  padding:5px;
+}
+
+
+/*style the arrow inside the select element:*/
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+/*point the arrow upwards when the select box is open (active):*/
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+/*style the items (options), including the selected item:*/
+.select-items div,.select-selected {
+  color: #ffffff;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+  cursor: pointer;
+  user-select: none;
+}
+/*style items (options):*/
+.select-items {
+  position: absolute;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12pt;
+  background-color: #cdea0b;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+/*hide the items when the select box is closed:*/
+.select-hide {
+  display: none;
+}
+.select-items div:hover, .same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+/*.loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    visibility: hidden;
+    transition-delay: 0.2s;
+    .icon {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        background: url('../images/ico_loader.svg') no-repeat 0 0;
+        background-size: 248px 248px;
+    }
+}
+.is-loading {
+    .loader {
+        opacity: 1;
+        visibility: visible;
+        transition: opacity 0.3s linear, visibility 0.3s linear;
+        z-index: 3;
+        .icon {
+            animation: spin 500ms infinite linear;
+        }
+    }
+}*/
+
+.user-profile {
+  position: fixed;
+  bottom: 20px;
+  right: 40px;
+  width: 100px;
+  height: 100px;
+}
+
+.user-profile img {
+  border-radius: 50%;
+  max-width: 100%;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0); transform-origin: center center; }
+    100% { transform: rotate(360deg); transform-origin: center center; }
+}

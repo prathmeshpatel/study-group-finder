@@ -1,0 +1,741 @@
+AAAS - African and African American S
+ACCOUNTG - Accounting
+ADF - American Dance Festival
+AEP - Anesthesiology/Environ Physio
+AEROSCI - Aerospace Studies-AFROTC
+AFA@ - AFA (UNC-CH)
+AMES - Asian & Middle Eastern Studies
+AMH - Amharic
+AMHARIC - Amharic
+AMI - Arts of the Moving Image
+AMXTIAN - American Christianity
+ANATOMY - Anatomy
+ANE - Anesthesiology
+ANESTH - Anesthesiology
+APLSCI - Applied Science Certificate Pr
+ARABIC - Arabic
+ARTHIST - Art History
+ARTS&SCI - Arts and Science IDEAS themes
+ARTSINST - Institute of the Arts
+ARTSVIS - Visual Arts
+ASEP - Anesthesiol, Surg & Envtl Phys
+AYMARA - Aymara
+BA - Business Administration
+BALTFIN - Balto-Finnic
+BCS - Black Church Studies
+BES - BioMed Engineering and Surgery
+BIB - Biostatistics & Bioinformatics
+BIMP - Biomed Imaging & Med Physics
+BIOCHEM - Biochemistry
+BIOETHIC - Bioethics and Science Policy
+BIOLOGY - Biology
+BIOMETRY - Biometry
+BIOPHY - Biophysics
+BIOSTAT - Biostatistics
+BME - Biomedical Engineering
+BMI - Biometry
+BO - BO @ NCSU
+BPP - Biophysics Study Program
+BRAINSOC - Brain & Society
+BSP - Behavioral Neuro Study Program
+CANADIAN - Canadian Studies
+CAS - Casper
+CBB - Computational Bio  Bioinformat
+CBP - Cancer Biology Study Program
+CEE - Civil and Environmental Egr
+CEL@ - CEL (UNC-CH)
+CELLBIO - Cell Biology
+CESC - Civic Engagement&Social Change
+CFM - Community & Family Medicine
+CHEM - Chemistry
+CHILDPOL - Child Policy
+CHINESE - Chinese
+CHURHST - Church History
+CHURMIN - Church Ministry
+CIF - Colloquia/Interfield/Field Edu
+CLINARTS - Clinical Arts
+CLP - Clinical Leadership Program
+CLST - Classical Studies
+CMAC - Cmputnl Media, Arts & Cultures
+CMB - Cell and Molecular Biology
+CNT@ - CNT (USC)
+COMMFAM - Community and Family Medicine
+COMPSCI - Computer Science
+CONTDIV - Continuation - Divinity
+CONTEGRP - Continuation-Engineering
+CONTENV - Continuation-Completion(NSOE)
+CONTGRAD - Continuation-Graduate School
+CONTNUR - Course Continuation - Nursing
+CONTPPS - Course Continuation - PPS
+CORE - Clinical Core
+CPE - Clinical Pastoral Education
+CRB - Cell and Regulatory Biology St
+CREOLE - Creole
+CRP - Clinical Research Training Prg
+CRS - Continuation of Enrollment
+CRSP - Clinical Research Study Prog
+CSE@ - CSE (UNC-CH)
+CTA - CTA @
+CTN - Continuation - Graduate School
+CTW - CTW @
+CULANTH - Cultural Anthropology
+CVS - Cardiovascular Study Program
+DANCE - Dance
+DECISION - Decision Sciences
+DECSCI - Decision Sciences Program
+DERMATOL - Dermatology
+DIVINITY - Divinity
+DMNISTRY - Doctor of Ministry
+DOCST - Documentary Studies
+DPC - Distinguished Professor Course
+DRAMA - Drama
+DUTCH - Dutch
+ECE - Electrical & Computer Egr
+ECON - Economics
+EDI@ - EDI (UNC-CH)
+EDUC - Education
+EGR - Engineering
+EGRMGMT - Engineering Management
+EHD - Education and Human Developmnt
+ENERGY - Energy
+ENGLISH - English
+ENR - Enrollment Fee
+ENRGYEGR - Energy Engineering
+ENRGYENV - Energy & Environment
+ENTREPRN - Entrepreneurship & Innovation
+ENVIRON - Environment
+EOS - Earth and Ocean Sciences
+EPH - Epidemiology & Public Health
+ERS - Education Research Studies
+ETHICS - Study of Ethics
+EVANTH - Evolutionary Anthropology
+EXP - Study Away
+FA - FA @
+FIELDEDU - Field Education
+FINANCE - Finance
+FLDCTN - Field Edu Continuation - Div
+FOCUS - Focus
+FREETIME - Free Time
+FRENCH - French
+FUQINTRD - Interdisciplinary
+GATE - Global Academic Travel Exp
+GBLDEVLP - Global Development Engineering
+GENETICS - Genetics
+GENOME - Science & Society
+GEOADMIN - Global Education Admn Use Only
+GEOLOGY - Geology
+GEORGIAN - Georgian
+GERMAN - German
+GERMANST - German Studies
+GHS - Global Health Study Program
+GHSR - Global Health Student Research
+GLHLTH - Global Health
+GREEK - Greek
+GRY@ - GRY@UNC
+GS - Graduate Studies
+GSF - Gender Sexuality & Feminist St
+HCVIS - Historical&Cultural Visualiztn
+HEBREW - Hebrew
+HED@ - HED (NCCU)
+HGP - Human Genetics Study Program
+HINDI - Hindi
+HISTORY - History
+HISTREL - History of Religion
+HISTTHEO - Historical Theology
+HLTHMGMT - Health Sector Management
+HLTHSCI - Health Sciences
+HNM - Health and Nursing Ministries
+HOUSECS - House Course
+HSP - Hispanic Summer Program
+HTHPOL - Health Policy
+HUMANDEV - Human Development
+HUNGARN - Hungarian
+I&E - Innovation & Entrepreneurship
+ICS - Internatl Comparative Studies
+IDP - Infectious Diseases Study Prog
+IDS - Interdisciplinary Data Science
+ILE - Integrative Leadership Exp
+IMMUNOL - Immunology
+IMPINV - Initiative on Impact Investing
+INCC_PHL - Philosophy
+INCG_BIO - BIOLOGY
+INCG_CST - CLASSICAL STUDIES
+INCG_HDF - Human Dev/Fam Studies
+INCG_MBA - MBA
+INCG_PSY - Psychology
+INCG_REL - Religious Studies
+INCG_SPA - Spanish
+INCH_AAD - Afri, Afri-Amer, Diaspora Stds
+INCH_AAR - Archeology
+INCH_AFA - African American Studies
+INCH_AFR - African Studies
+INCH_ANT - Anthropology
+INCH_ARB - Arabic
+INCH_ARH - Art History
+INCH_ART - Art
+INCH_ASA - Asian Studies
+INCH_AST - American Studies
+INCH_ASY - Astronomy
+INCH_BCM - Biochemistry
+INCH_BCS - Bosnian-Croatian-Serbian
+INCH_BEN - Bengali
+INCH_BIO - Biology
+INCH_BME - Biomedical Engineering
+INCH_BST - Biostatistics
+INCH_BUS - Business
+INCH_CBI - Cell Biology
+INCH_CBM - Chemical Biology Med Chemistry
+INCH_CHM - Chemistry
+INCH_CHN - Chinese
+INCH_CHR - Cherokee
+INCH_CLR - Classical Archaeology
+INCH_CLS - Classical Studies
+INCH_CMM - Communication Studies
+INCH_CMP - Comparative Literature
+INCH_COM - Computer Science
+INCH_DRA - Drama
+INCH_DTH - Dutch
+INCH_ECL - Ecology
+INCH_ECO - Economics
+INCH_EDU - Education
+INCH_ENG - English
+INCH_ENS - Environmental Sci & Studies
+INCH_ENV - Environmental Sciences
+INCH_EPD - Epidemiology
+INCH_EXS - Exercise and Sport Science
+INCH_FOL - Folklore
+INCH_FRN - French
+INCH_GBS - Global Studies
+INCH_GEG - Geography
+INCH_GEO - Geology
+INCH_GER - German
+INCH_GNT - GENETICS & MOLECULAR BIOLOGY
+INCH_GRK - Greek
+INCH_HBH - Health Behavior &  Education
+INCH_HNR - Honors
+INCH_HNU - Hindi-Urdu
+INCH_HPA - Health Policy & Administration
+INCH_HPM - Health Policy And Management
+INCH_HST - History
+INCH_HUN - Hungarian
+INCH_INL - Information Library Science
+INCH_ITA - Italian
+INCH_JOM - Journalism & Mass Comm.
+INCH_JPN - Japanese
+INCH_LAW - Law
+INCH_LGL - LINGALA LANGUAGE
+INCH_LIN - Linguistics
+INCH_LIT - Literature
+INCH_LTN - Latin
+INCH_MAC - Master of Accounting
+INCH_MAS - Marine Science
+INCH_MAY - Yucatec Maya
+INCH_MBA - Master of Business Admin
+INCH_MCB - Microbiology
+INCH_MEJ - Media & Journalism
+INCH_MGT - Management
+INCH_MHC - Maternal and Child Health
+INCH_MOR - Molecular Pharmaceutics
+INCH_MTH - Math
+INCH_MUS - Music
+INCH_NBI - Neurobiology
+INCH_NTR - Nutrition
+INCH_NUR - Nursing
+INCH_OTI - OTI (UNC-CH)
+INCH_PHA - Physical Activities
+INCH_PHC - Pharmacy
+INCH_PHL - Philosphy
+INCH_PHN - Public Health Nursing
+INCH_PHS - Physiology
+INCH_PHY - Physics
+INCH_PLH - Polish
+INCH_PLN - Planning
+INCH_PLY - Public Policy
+INCH_POL - Political Science
+INCH_POR - Portuguese
+INCH_PRN - Persian
+INCH_PSY - Psychology
+INCH_PTH - Pathology
+INCH_PUA - Public Administration
+INCH_PUH - Public Health
+INCH_PUP - Public Policy Analysis
+INCH_PWD - Peace War & Defense
+INCH_REL - Religion
+INCH_RES - Russian & East Euro Studies
+INCH_ROM - Romance Languages
+INCH_RUS - Russian
+INCH_SAN - Sanskrit
+INCH_SEC - Serb & Croatian
+INCH_SER - INCH_SER
+INCH_SLV - Slavic Languages & Literature
+INCH_SOC - Sociology
+INCH_SOW - Social Work
+INCH_SPA - Spanish
+INCH_SPH - Speech & Hearing Sciences
+INCH_STR - Stats & Operations Research
+INCH_SUS - SUSI (UNC-CH)
+INCH_SWA - Swahili
+INCH_TAM - Tamil
+INCH_TOX - Toxicology
+INCH_VIT - Vietnamese
+INCH_WOL - Wolof Language
+INCH_WST - Women's Studies
+INCS_ACC - Accounting
+INCS_ADN - Art and Design
+INCS_AEC - Applied Ecology
+INCS_ANS - Animal Science
+INCS_ARC - Architecture
+INCS_ARE - Agricultural Economics
+INCS_BAE - BIOLOGICAL & AGRIC ENGINEERING
+INCS_BIO - Biological Sciences
+INCS_BMA - Biomathematics
+INCS_BME - Biomedical Engineering
+INCS_BO - Botany
+INCS_BUS - Business Management
+INCS_CBS - Comparative Biomedical Science
+INCS_CE - Civil Engineering
+INCS_CH - Chemistry
+INCS_CHE - Chemical Engineering
+INCS_COM - Communication Studies
+INCS_CS - Crop Science
+INCS_CSC - Computer Science
+INCS_EC - Economics  (Undergraduate)
+INCS_ECE - Eletrical/Computer Engineering
+INCS_ECG - Economics (Graduate)
+INCS_ECI - Curriculum and Instruction
+INCS_EGR - Engineering
+INCS_ELP - Edu Leadershp & Policy Studies
+INCS_ENG - English
+INCS_ENT - Entomology
+INCS_FL - Foreign Language & Literatures
+INCS_FLG - Foreign Language-German
+INCS_FLN - Foreign Language - Hindi-Urdu
+INCS_FLP - Foreign Language - Portuguese
+INCS_FOR - Forestry
+INCS_FS - Food Science
+INCS_FW - Fisheries & Wildlife Sciences
+INCS_GIS - Geographic Info Systems
+INCS_GN - Genetics
+INCS_HEA - HEALTH EXERCISE AQUATICS
+INCS_HI - History
+INCS_HOR - Horticulture
+INCS_ID - Industrial Design
+INCS_IE - Industrial Engineering
+INCS_IMM - IMMUNOLOGY
+INCS_ISE - Industrial & Syst Engineering
+INCS_LAR - Landscape Architecture
+INCS_LOG - Logic
+INCS_MA - Mathematics
+INCS_MAE - Mechanical & Aerospace Egr
+INCS_MEA - Marine,Earth,& Atmospheric Sci
+INCS_MLS - Liberal Studies
+INCS_MSE - Material Science & Engineering
+INCS_MUS - Music
+INCS_NE - Nuclear Engineering
+INCS_NR - Natural Resources
+INCS_NTR - Nutrition
+INCS_OR - Operations Research
+INCS_PA - Public Administration
+INCS_PRT - Parks, Rec &Tourism Management
+INCS_PS - Political Science
+INCS_PSY - Psychology
+INCS_PY - Physics
+INCS_REL - Religion
+INCS_SOC - Sociology
+INCS_SSC - Soil Science
+INCS_ST - Statistics
+INCS_TTM - Textile Technology Management
+INCS_VMP - Veterinary Science
+INCS_WGS - Women's and Gender Studies
+INCS_ZOO - Zoology
+INCU_ACC - Accounting
+INCU_ART - Art
+INCU_BIO - Biology
+INCU_CHM - Chemistry
+INCU_CRJ - Criminal Justice
+INCU_CS - Computer Science
+INCU_DRA - Drama
+INCU_ECO - Economics
+INCU_ENG - English
+INCU_FDN - Foods & Nutrition
+INCU_FDS - Foods & Nutrition
+INCU_GER - German
+INCU_HST - History
+INCU_LAW - Law
+INCU_MAT - Mathematics
+INCU_MSC - Mass Communication
+INCU_MUS - Music
+INCU_PAD - Public Administration
+INCU_PED - Physical Education
+INCU_PHY - Physics
+INCU_PSY - Psychology
+INCU_SLD - Speech & Language Disorders
+INCU_SOC - Sociology
+IND - Interdisciplinary
+INT - Internship
+INTERDIS - Interdisciplinary
+INTERN - Internship
+INTERSES - INTERSESSION
+INYU_AAL - INYU_AAL (Taught at NYU)
+INYU_AL - INYU_AL (Taught at NYU)
+INYU_AMI - INYU_AMI (Taught at NYU)
+INYU_AN - INYU_ANTHROPOL (Taught at NYU)
+INYU_ARB - INYU_ARB (Taught at NYU)
+INYU_ARH - INYU_ARH (Taught at NYU)
+INYU_ART - INYU_ART (Taught at NYU)
+INYU_ARV - INYU_ARV (Taught at NYU)
+INYU_AS - INYU_AFR STUDIES (Tght at NYU)
+INYU_BIO - INYU_BIO (Taught at NYU)
+INYU_BUS - INYU_BUS (Taught at NYU)
+INYU_CA - INYU_CA (Taught at NYU)
+INYU_CIN - INYU_CIN (Taught at NYU)
+INYU_CL - INYU_CL (Taught at NYU)
+INYU_CLS - INYU_CLASSICS (Taught at NYU)
+INYU_CRW - INYU_CRW (Taught at NYU)
+INYU_CS - INYU_CS (Taught at NYU)
+INYU_DAN - INYU_DAN (Taught at NYU)
+INYU_DOC - INYU_DOC ST(Taught at NYU)
+INYU_DRL - INYU_DRL(Taught at NYU)
+INYU_ECN - INYU_ECN (Taught at NYU)
+INYU_ECO - INYU_ECO (Taught at NYU)
+INYU_EDU - INYU_EDU (Taught at NYU)
+INYU_ENG - INYU_ENG (Taught at NYU)
+INYU_ENV - INYU_ENV  (Taught at NYU)
+INYU_FLM - INYU_FLM (Taught at NYU)
+INYU_FMI - INYU_FMI (Taught at NYU)
+INYU_FRN - INYU_FRN (Taught at NYU)
+INYU_FVD - INYU_FVD (Taught at NYU)
+INYU_GER - INYU_GER (Taught at NYU)
+INYU_GL - INTERMEDIATE GERMAN III
+INYU_GRK - INYU_GRK (Taught at NYU)
+INYU_GRL - GERMAN LANGUAGE/LITERATURE
+INYU_HEB - INYU_HEB (Taught at NYU)
+INYU_HST - INYU_HST (Taught at NYU)
+INYU_IP - INYU_IP (Taught at NYU)
+INYU_IT - INYU_ITALIAN(Taught at NYU)
+INYU_ITL - INYU_ITL (Taught at NYU)
+INYU_JL - INYU_JL (Taught at NYU)
+INYU_JRL - INYU_JRL (Taught at NYU)
+INYU_JRN - INYU_JRNALISM (Taught at NYU)
+INYU_LAS - INYU_LAS (Taught at NYU)
+INYU_LAW - INYU_LAW (Taught at NYU)
+INYU_LIN - INYU_LIN (Taught at NYU)
+INYU_LIT - INYU_LIT (Taught at NYU)
+INYU_MES - INYU_MES (Taught at NYU)
+INYU_MET - INYU_METRO ST (Taught at NYU)
+INYU_MJL - INYU_MJL
+INYU_MMS - INYU_MMS (Taught at NYU)
+INYU_MTH - INYU_MTH (Taught at NYU)
+INYU_MUS - INYU_MUS (Taught at NYU)
+INYU_NSC - INYU_NSC (Taught at NYU)
+INYU_OAR - INYU_OAR(Taught at NYU)
+INYU_PHE - INYU_PHYSEDU (Taught at NYU)
+INYU_PHL - INYU_PHL (Taught at NYU)
+INYU_PJ - INYU_PJ (Taught at NYU)
+INYU_PPS - INYU_PUBPOL (Taught at NYU)
+INYU_PS - INYU_PS (Taught at NYU)
+INYU_PSY - INYU_PSY (Taught at NYU)
+INYU_PTG - INYU_PTG (Taught at NYU)
+INYU_REL - INYU_REL (Taught at NYU)
+INYU_RS - ROMANCE STUDIES
+INYU_SEM - INYU_SEM (Taught at NYU)
+INYU_SOC - INYU_SOC (Taught at NYU)
+INYU_SP - INYU_SPANISH (Taught at NYU)
+INYU_STA - INYU_STA (Taught at NYU)
+INYU_SXL - INYU_SXL (Taught at NYU)
+INYU_THS - INYU_THS (Taught at NYU)
+INYU_TS - INYU-TS(Taught at NYU)
+INYU_VMS - INYU_VMS (Taught at NYU)
+INYU_WST - INYU_WST (Taught at NYU)
+ISIS - Inf Science and Inf Studies
+ISP - Immunology Study Program
+ISS - Information Science + Studies
+ITALIAN - Italian
+IUSC-PSY - IUSC_PSYC (Taught at USC)
+IUSC_AME - IUSC_AME (Taught at USC)
+IUSC_AMI - IUSC_AMI (Taught at USC)
+IUSC_CE - IUSC_CE (Taught at USC)
+IUSC_COM - IUSC_COM (Taught at USC)
+IUSC_CSC - IUSC_CSC (Taught at USC)
+IUSC_CTA - IUSC_CTA (Taught at USC)
+IUSC_CTC - IUSC_CTC (Taught at USC)
+IUSC_CTP - IUSC_CTP (Taught at USC)
+IUSC_CTV - IUSC_CTV (Taught at USC)
+IUSC_CTW - IUSC_CTW (Taught at USC)
+IUSC_FA - IUSC_FA (Taught at USC)
+IUSC_FVD - IUSC_FVD (Taught at USC)
+IUSC_JRN - IUSC_JRN (Taught at USC)
+IUSC_LIT - IUSC_LIT (Taught at USC)
+IUSC_MUI - IUSC_MUI (Taught at USC)
+IUSC_MUS - IUSC_MUS (Taught at USC)
+IUSC_PE - IUSC_PE (Tuahgt at USC)
+IUSC_PJM - IUSC_PJMS (Taught at USC)
+IUSC_PPS - IUSC_PPS (Taught at USC)
+IUSC_PS - IUSC_PS (Taught at USC)
+IUSC_SOC - IUSC_SOC (Taught at USC)
+IUSC_THT - IUSC_THT (Taught  at USC)
+IUSC_VIS - IUSC_ARTSVIS (Taught at USC)
+JEWISHST - Jewish Studies
+JGER_ART - Art
+JGER_CMM - Communication Studies
+JGER_CPL - Comparative Literature
+JGER_CZH - Czech
+JGER_ENG - English
+JGER_FRE - French
+JGER_GER - German
+JGER_GRK - Greek
+JGER_HST - History
+JGER_JWS - Jewish Studies
+JGER_LAT - Latin
+JGER_LAW - Law
+JGER_PHA - Physical Activities
+JGER_PHL - Philosophy
+JGER_PLN - City and Regional Planning
+JGER_PLS - Polish
+JGER_REL - Religion
+JGER_SLV - Slavic Languages
+JGER_SOC - Sociology
+JGER_WST - Women's Studies
+JPN - Japanese
+KICHE - K’iche Mayan
+KOREAN - Korean
+LATAMER - Latin American Studies
+LATIN - Latin
+LAW - Law
+LIBRARY - LIBRARY
+LINGUIST - Linguistics
+LIT - Literature
+LS - Liberal Studies
+LSGS - Latino Studies Global South
+LTS - Liturgical Studies
+MALS - Liberal Studies
+MANAGEMT - Management
+MARKETNG - Marketing
+MAT - Master of Arts in Teaching
+MATH - Mathematics
+MBP - Molecular Biophysics
+MBS - Modeling Biological Systems
+MCH - MCH
+MDP - Molecular Development
+ME - Mechanical Engr/Materials Sci
+MEDHUM - Medical Humanities Study Progr
+MEDICINE - Medicine
+MEDINFO - Medical Information Sciences
+MEDPHY - Medical Physics
+MEDREN - Medieval and Renaissance
+MENG - Master of Engineering
+MFAEDA - MFA in Experimental & Doc Arts
+MGM - Molec Genetics & Microbiology
+MGMTCOM - Management Communications
+MGP - Medical Genomics
+MGRECON - Economics
+MICROBIO - Microbiology
+MIDIP - MIDIP
+MIDP - Micro and Infect Disease
+MILITSCI - Military Science (Army ROTC)
+MIS - Medical Information Sciences
+MMCI - Mstrs in Manage in Cln Info
+MMS - Markets and Management Studies
+MOLBPHY - Molecular Biophysics
+MOLCAN - Molecular Cancer Biology
+MOLMED - Molecular Medicine
+MPS - MPS
+MSIS - M of Sci of Info Sci Study Pro
+MSLS - M of Sci of Lib Sci Study Pro
+MUSIC - Music
+NANOSCI - Nanosciences
+NAVALSCI - Naval Science (Navy ROTC)
+NBP - Neurobiology Study Program
+NCS - Nonlinear and Complex Systems
+NEURO - Neurology
+NEUROBIO - Neurobiology
+NEUROSCI - Neuroscience
+NEUROSUR - Neurosurgery
+NEWTEST - New Testament
+NORTAMER - North American Studies
+NSS - Neurosciences Study Program
+NURSING - Nursing
+OBG - Obstetrics and Gynecology
+OBGYN - Obstetrics and Gynecology
+OCR - Online Core-Clinical Research
+OLDTEST - Old Testament
+OPERATNS - Operations
+OPHTHAL - Ophthalmology
+OPTECH - Ophthalmic Medical Technician
+OPTRS - Optional Research Studies
+ORTHO - Orthopaedics
+OVS - Ophthalmology/Visual Sci St Pr
+PAP - Physician Assistant Program
+PARISH - Care of Parish
+PASHTO - Pashto
+PASTCARE - Pastoral Care
+PATHASST - Pathologist's Assistant Progr
+PATHOL - Pathology
+PCLT - Primary Care Leadership Track
+PEDS - Pediatrics
+PERSIAN - Persian
+PHARM - Pharm and Cancer Biology
+PHIL - Philosophy
+PHYASST - Physician Assistant Program
+PHYSEDU - Physical Education
+PHYSICS - Physics
+PJMS - Policy Journalism and Media St
+PMT - Pharm & Molecular Therapeutics
+POE - Practice-Oriented Education
+POLISH - Polish
+POLSCI - Political Science
+POPHS - Population Health Sciences
+PORTUGUE - Portuguese
+PPE - Philosophy, Politics, and Econ
+PREACHNG - Preaching
+PRIMATOL - Primatology
+PSC - Psychiatry
+PSP - Pathology Study Program
+PSY - Psychology
+PSYCHTRY - Psychiatry
+PT - Physical Therapy
+PT-D - Physical Therapy - Doctorate
+PTA - Pathologist's Assistant Prgm
+PTH - Pathology
+PUBPOL - Public Policy
+QM - Quantitative Management
+QUECHUA - Quechua
+R0BT_REL - ROBT_REL
+RAD - Radiology
+RADIOL - Radiology
+RADONC - Radiation Oncology
+REG - Registration
+RELIGION - Religion
+RESEARCH - Research
+RIGHTS - Human Rights
+ROBT_AAD - Afri, Afri-Amer, Diaspora Stds
+ROBT_AFM - African American Studies
+ROBT_AFR - African Studies
+ROBT_AMT - American Studies
+ROBT_ANT - Anthropology
+ROBT_APL - Applied Sciences
+ROBT_ARB - Arabic
+ROBT_ARH - Art History
+ROBT_ART - Art
+ROBT_ARV - ARTS VIS
+ROBT_ASA - Asian Studies
+ROBT_AST - Astronomy
+ROBT_BIO - Biology
+ROBT_BST - Biostatistics
+ROBT_BUS - Business
+ROBT_CDF - ROBT_CDF
+ROBT_CHM - Chemistry
+ROBT_CHN - Chinese
+ROBT_CLA - Classics
+ROBT_CLR - Classical Archeology
+ROBT_CML - Comparative Literature
+ROBT_CMS - Communication Studies
+ROBT_COM - Communications
+ROBT_CPS - Computer Science
+ROBT_DRA - Drama
+ROBT_ECO - Economics
+ROBT_EDU - Education
+ROBT_ENE - Environment & Ecology
+ROBT_ENG - English
+ROBT_ENS - Environmental Studies
+ROBT_ENV - Environment Sciences
+ROBT_EPD - Epidemiology
+ROBT_ESS - Exercise and Sport Science
+ROBT_FOL - Folklore
+ROBT_FRE - French
+ROBT_GBS - Global Studies
+ROBT_GEG - Geography
+ROBT_GEO - Geology
+ROBT_GLB - GLOBAL ISSUES
+ROBT_GRK - Greek
+ROBT_GRM - German
+ROBT_HNR - Honors
+ROBT_HNU - Hindi/Urdu
+ROBT_HPA - Health Policy & Administration
+ROBT_HPM - Health Policy & Management
+ROBT_HST - History
+ROBT_IDS - Inter-disciplinary Studies
+ROBT_ILS - Information & Library Science
+ROBT_INT - International Studies
+ROBT_ITA - Italian
+ROBT_JOM - Journalism and Mass Comm
+ROBT_LIN - Linguistics
+ROBT_LIT - Literature
+ROBT_LTM - Latin American Studies
+ROBT_MEJ - Media and Journalism
+ROBT_MTH - Math
+ROBT_MUS - Music
+ROBT_NTR - Health Nutrition
+ROBT_PBH - Public Health
+ROBT_PHA - Physical Activities
+ROBT_PHL - Philosophy
+ROBT_PHY - Physics
+ROBT_PLN - City and Regional Planning
+ROBT_POL - Political Science
+ROBT_PRT - Portuguese
+ROBT_PSY - Psychology
+ROBT_PUB - Public Policy
+ROBT_PWD - Peace, War, & Defense
+ROBT_REL - Religion
+ROBT_RUS - Russian
+ROBT_SOC - Sociology
+ROBT_SPA - Spanish
+ROBT_SPC - Exp & Spl Studies
+ROBT_SPH - Speech & Hearing Sciences
+ROBT_STA - Statistics
+ROBT_STR - Stats & Oprtns Resrch
+ROBT_SW - Social Work
+ROBT_SWA - Swahili
+ROBT_VIT - Vietnamese
+ROBT_WGS - Women's and Gender Studies
+ROBT_WST - Women's Studies
+ROMANIAN - Romanian
+ROMLANG - Romance Languages
+ROMST - Romance Studies
+RON - Radiation Oncology
+RROMP - Radiology, RadOnc & Med Physic
+RUSSIAN - Russian
+SANSKRIT - SANSKRIT
+SAS - South Asian Studies
+SBB - Structural Bio & Biophysics
+SCISOC - Science & Society
+SERBCRO - Serbian and Croatian
+SES - Slavic and Eurasian Studies
+SIGNATUR - Arts and Sci Signature Courses
+SOCENT - Social Entrepreneurship
+SOCIOL - Sociology
+SPANISH - Spanish
+SPIRIT - Spirituality
+STA - Statistical Science
+STDYAWAY - Study Away
+STHV - Science, Tech and Human Values
+STRATEGY - Strategy
+SUR - Surgery
+SURGERY - Surgery
+SUSTAIN - Sustainability Engagement
+SXL - Study of Sexualities
+THEATRST - Theater Studies
+THESIS - Thesis
+TIBETAN - Tibetan
+TM - Transfusion Med
+TRAN - Transfer courses
+TURKISH - Turkish
+UKRAIN - Ukrainian
+UPE - University Program in Ecology
+UPGEN - University Program in Genetics
+USC_POLS - Interinstitutional POLSCI
+UZBEK - Uzbek
+VISUALST - Visual Studies
+VMS - Visual and Media Studies
+WBA - Weekend Business Admin
+WRITING - Writing
+WXTIAN - World Christianity
+XTIANEDU - Christian Education
+XTIANETH - Christian Ethics
+XTIANPRC - MA in Christian Practice
+XTIANSTU - MA in Christian Studies
+XTIANTHE - Christian Theology
+YIDDISH - Yiddish
+ZOOLOGY - Zoology
+ZZZ - Duke Equivalent Transfer Cred
+</select>
